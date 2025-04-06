@@ -1,0 +1,126 @@
+[06/Apr/2025 05:45:11] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 05:45:54] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 05:46:57] INFO [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 200 2061
+[06/Apr/2025 05:48:36] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 05:49:03] INFO [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 200 2380
+[06/Apr/2025 05:50:50] INFO [django.utils.autoreload:265] D:\Grads\hackathon25\HackathonProject\myproject\transcriptionai\apicalls\sentimentanalysis.py changed, reloading.
+[06/Apr/2025 05:50:53] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 05:52:18] INFO [django.utils.autoreload:265] D:\Grads\hackathon25\HackathonProject\myproject\transcriptionai\apicalls\actionextractor.py changed, reloading.
+[06/Apr/2025 05:52:20] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 06:00:53] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 06:00:53] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 77
+[06/Apr/2025 06:01:07] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 06:01:07] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 77
+[06/Apr/2025 06:01:28] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 06:01:45] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 06:01:45] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 77
+[06/Apr/2025 06:02:14] INFO [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 200 2261
+[06/Apr/2025 06:09:46] INFO [django.utils.autoreload:265] D:\Grads\hackathon25\HackathonProject\myproject\transcriptionai\apicalls\transcription.py changed, reloading.
+[06/Apr/2025 06:09:48] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 06:10:14] INFO [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 200 2275
+[06/Apr/2025 06:12:11] INFO [django.utils.autoreload:265] D:\Grads\hackathon25\HackathonProject\myproject\transcriptionai\apicalls\transcription.py changed, reloading.
+[06/Apr/2025 06:12:14] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 06:12:28] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 06:12:28] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 74
+[06/Apr/2025 06:12:46] INFO [django.utils.autoreload:265] D:\Grads\hackathon25\HackathonProject\myproject\transcriptionai\apicalls\transcription.py changed, reloading.
+[06/Apr/2025 06:12:48] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 06:13:02] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 06:13:02] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 74
+[06/Apr/2025 06:13:24] INFO [django.utils.autoreload:265] D:\Grads\hackathon25\HackathonProject\myproject\transcriptionai\apicalls\transcription.py changed, reloading.
+[06/Apr/2025 06:13:27] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 06:13:50] INFO [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 200 1872
+[06/Apr/2025 06:20:44] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 06:20:44] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 74
+[06/Apr/2025 06:21:14] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 06:21:14] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 74
+[06/Apr/2025 06:21:33] INFO [django.utils.autoreload:265] D:\Grads\hackathon25\HackathonProject\myproject\transcriptionai\apicalls\transcription.py changed, reloading.
+[06/Apr/2025 06:21:37] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 06:21:53] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 06:21:53] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 74
+[06/Apr/2025 06:22:26] INFO [django.utils.autoreload:265] D:\Grads\hackathon25\HackathonProject\myproject\transcriptionai\apicalls\transcription.py changed, reloading.
+[06/Apr/2025 06:22:28] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 06:23:15] INFO [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 200 2318
+[06/Apr/2025 06:25:17] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 06:25:51] INFO [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 200 2314
+[06/Apr/2025 06:30:40] INFO [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 200 2332
+[06/Apr/2025 06:40:47] INFO [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 200 2074
+[06/Apr/2025 06:42:33] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 06:42:33] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 74
+[06/Apr/2025 06:43:52] INFO [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 200 2256
+[06/Apr/2025 07:13:37] INFO [django.utils.autoreload:265] D:\Grads\hackathon25\HackathonProject\myproject\transcriptionai\apicalls\actionextractor.py changed, reloading.
+[06/Apr/2025 07:13:44] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 07:14:12] INFO [django.utils.autoreload:265] D:\Grads\hackathon25\HackathonProject\myproject\transcriptionai\apicalls\actionextractor.py changed, reloading.
+[06/Apr/2025 07:14:15] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 07:26:31] INFO [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 200 2178
+[06/Apr/2025 07:39:50] INFO [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 200 2235
+[06/Apr/2025 07:41:59] INFO [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 200 2105
+[06/Apr/2025 07:55:12] INFO [django.utils.autoreload:265] D:\Grads\hackathon25\HackathonProject\myproject\transcriptionai\apicalls\transcription.py changed, reloading.
+[06/Apr/2025 07:55:24] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 08:00:17] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 08:00:17] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 63
+[06/Apr/2025 08:00:29] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 08:00:29] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 63
+[06/Apr/2025 08:00:55] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 08:00:55] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 63
+[06/Apr/2025 08:01:37] INFO [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 200 2190
+[06/Apr/2025 08:07:50] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 08:07:50] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 63
+[06/Apr/2025 08:10:35] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 08:10:35] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 63
+[06/Apr/2025 08:14:26] INFO [django.utils.autoreload:265] D:\Grads\hackathon25\HackathonProject\myproject\transcriptionai\apicalls\transcription.py changed, reloading.
+[06/Apr/2025 08:14:28] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 08:15:17] INFO [django.utils.autoreload:265] D:\Grads\hackathon25\HackathonProject\myproject\transcriptionai\apicalls\transcription.py changed, reloading.
+[06/Apr/2025 08:15:19] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 08:15:29] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 08:15:29] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 74
+[06/Apr/2025 08:16:01] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 08:16:01] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 74
+[06/Apr/2025 08:16:07] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 08:16:07] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 74
+[06/Apr/2025 08:16:11] INFO [django.utils.autoreload:265] D:\Grads\hackathon25\HackathonProject\myproject\transcriptionai\apicalls\transcription.py changed, reloading.
+[06/Apr/2025 08:16:16] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 08:16:41] INFO [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 200 2243
+[06/Apr/2025 08:20:06] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 08:20:06] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 63
+[06/Apr/2025 08:20:18] INFO [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 200 601
+[06/Apr/2025 08:21:22] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 08:21:22] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 63
+[06/Apr/2025 08:21:35] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 08:21:35] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 63
+[06/Apr/2025 08:21:45] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 08:21:45] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 63
+[06/Apr/2025 08:21:56] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 08:21:56] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 63
+[06/Apr/2025 08:23:33] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 08:23:33] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 63
+[06/Apr/2025 08:23:45] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 08:23:45] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 63
+[06/Apr/2025 08:24:11] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 08:24:29] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 08:24:29] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 74
+[06/Apr/2025 08:25:14] INFO [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 200 2249
+[06/Apr/2025 08:41:51] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 08:42:30] INFO [django.utils.autoreload:265] D:\Grads\hackathon25\HackathonProject\myproject\transcriptionai\urls.py changed, reloading.
+[06/Apr/2025 08:42:32] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 08:42:46] INFO [django.server:213] "OPTIONS /transcriptionai/summarize/ HTTP/1.1" 200 0
+[06/Apr/2025 08:42:46] WARNING [django.security.csrf:248] Forbidden (Origin checking failed - http://localhost:5173 does not match any trusted origins.): /transcriptionai/summarize/
+[06/Apr/2025 08:42:46] WARNING [django.server:213] "POST /transcriptionai/summarize/ HTTP/1.1" 403 2554
+[06/Apr/2025 08:43:08] ERROR [django.request:248] Internal Server Error: /transcriptionai/run_pipeline/
+[06/Apr/2025 08:43:08] ERROR [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 500 74
+[06/Apr/2025 08:47:22] INFO [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 200 2224
+[06/Apr/2025 08:47:29] WARNING [django.security.csrf:248] Forbidden (Origin checking failed - http://localhost:5173 does not match any trusted origins.): /transcriptionai/summarize/
+[06/Apr/2025 08:47:29] WARNING [django.server:213] "POST /transcriptionai/summarize/ HTTP/1.1" 403 2554
+[06/Apr/2025 08:47:33] WARNING [django.security.csrf:248] Forbidden (Origin checking failed - http://localhost:5173 does not match any trusted origins.): /transcriptionai/summarize/
+[06/Apr/2025 08:47:33] WARNING [django.server:213] "POST /transcriptionai/summarize/ HTTP/1.1" 403 2554
+[06/Apr/2025 08:47:35] WARNING [django.security.csrf:248] Forbidden (Origin checking failed - http://localhost:5173 does not match any trusted origins.): /transcriptionai/summarize/
+[06/Apr/2025 08:47:35] WARNING [django.server:213] "POST /transcriptionai/summarize/ HTTP/1.1" 403 2554
+[06/Apr/2025 08:50:02] INFO [django.utils.autoreload:265] D:\Grads\hackathon25\HackathonProject\myproject\transcriptionai\urls.py changed, reloading.
+[06/Apr/2025 08:50:05] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 08:50:10] INFO [django.utils.autoreload:667] Watching for file changes with StatReloader
+[06/Apr/2025 08:50:42] INFO [django.server:213] "POST /transcriptionai/run_pipeline/ HTTP/1.1" 200 2258
+[06/Apr/2025 08:50:51] INFO [django.server:213] "POST /transcriptionai/summarize/ HTTP/1.1" 200 328
+[06/Apr/2025 08:51:00] INFO [django.server:213] "POST /transcriptionai/summarize/ HTTP/1.1" 200 493
+[06/Apr/2025 09:02:48] INFO [django.server:213] "POST /transcriptionai/summarize/ HTTP/1.1" 200 337
+[06/Apr/2025 09:02:56] INFO [django.server:213] "POST /transcriptionai/summarize/ HTTP/1.1" 200 414
+[06/Apr/2025 09:09:09] INFO [django.server:213] "POST /transcriptionai/summarize/ HTTP/1.1" 200 288
+[06/Apr/2025 09:09:26] INFO [django.server:213] "POST /transcriptionai/summarize/ HTTP/1.1" 200 376

@@ -3,12 +3,12 @@ from openai import OpenAI
 from django.conf import settings
 client = OpenAI(api_key=settings.OPENAI_API_KEY)
 
-def summarize_text(transcript: str) -> dict:
+def summarize_text(transcript: str,summary_filter="one-line summary") -> dict:
     messages = [
         {
             "role": "system",
             "content": (
-                "You are a helpful assistant that summarizes meeting transcripts into clear, concise notes. "
+                f"You are a helpful assistant that summarizes meeting transcripts into {summary_filter}"
                 "Return the summary in a plain string format."
             )
         },

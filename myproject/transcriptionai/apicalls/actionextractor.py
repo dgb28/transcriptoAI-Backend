@@ -11,6 +11,7 @@ def extract_action_items(transcript: str) -> dict:
                 "You're an expert assistant that extracts action items from meeting transcripts. "
                 "Return the output as JSON with the key 'actionextractor' containing a list of action items. "
                 "Each action item should be an object with keys 'person', 'task', and 'deadline'."
+                "And deadline should always be a date."
             )
         },
         {"role": "user", "content": f"From the transcript below, extract bullet-point action items with responsible people and deadlines if available:\n\n{transcript}"}
