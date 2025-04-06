@@ -127,4 +127,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 load_dotenv()
 
 # Use your key
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_API_KEY = "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"
